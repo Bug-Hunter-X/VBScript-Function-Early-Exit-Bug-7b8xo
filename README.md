@@ -1,0 +1,1 @@
+This repository demonstrates a common VBScript bug involving a function that prematurely exits a loop when encountering a negative number, resulting in an incorrect sum calculation. The `calculateSumBug.vbs` file contains the buggy code. The `calculateSumSolution.vbs` file provides a corrected version that handles negative numbers properly.
